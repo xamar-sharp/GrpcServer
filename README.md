@@ -12,4 +12,4 @@ git clone https://github.com/xamar-sharp/GrpcServer
 Данное приложение опубликовано в development-форме и может быть вами модифицировано,
 при наличии установленных на вашем устройстве платформы .NET5 и фреймворка Asp.Net Core.
 ## Лицензия 
-MIT, Apache License 2.0
+MIT
